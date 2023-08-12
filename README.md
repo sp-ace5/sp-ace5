@@ -39,8 +39,7 @@ and maintenance of computers.
 <br><br><br>
 
 <div align="center">
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sp-ace5&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sp-ace5)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>Connect with me on
 <br>	
