@@ -35,16 +35,17 @@ and maintenance of computers.
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png" alt="Linux Mint" title="Linux Mint"/></code>
-</div>
+
 <br><br><br>
 
 <div align="center">
 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sp-ace5&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 <p>Connect with me on
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/nick5k/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
+</div>
 <br>
 </p>
