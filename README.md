@@ -1,8 +1,8 @@
-# Hello :wave:, I am Nick Kramlich 😃 
+# Hello :wave:, I am Nick K 😃 
 - A Computer Science Engineer :sparkles:
 - A Web Developer :computer:
 - Technology Lover :new_moon_with_face:
-- 
+
 
 
 # About me
@@ -39,7 +39,7 @@ computers and manual labor. Organized and diligent, with interpersonal communica
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png" alt="Linux Mint" title="Linux Mint"/></code>
 </div>
-
+<br><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sp-ace5&layout=compact&theme=gotham)]
 
