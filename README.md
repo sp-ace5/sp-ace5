@@ -1,7 +1,7 @@
 # Hello :wave:, I am Nick K 😃 
-- A Computer Science Engineer :sparkles:
 - A Web Developer :computer:
 - Technology Lover :new_moon_with_face:
+- Problem Solver
 
 
 
