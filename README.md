@@ -6,12 +6,9 @@
 
 
 # About me
-Highly skilled IT professional with extensive experience in programming, ranging from front-end to back-end development that is looking for
-an opportunity to use my knowledge and experience to help grow your company. Proficient in Windows and Linux administration (Terminals)
-and able to effectively manage and maintain complex systems. Strong problem-solving skills and a proven ability to work independently as
-well as part of a team. Committed to staying current with the latest industry trends and best practices. Tremendous knowledge of peripherals
-and maintenance of computers. Skillful at training others using a vast range of products and software. Have background in customer service,
-computers and manual labor. Organized and diligent, with interpersonal communication skills.
+Highly skilled IT professional with extensive experience in programming, ranging from front-end to back-end development. Proficient in Windows and Linux administration (Terminals)
+and able to effectively manage and maintain complex systems. Committed to staying current with the latest industry trends and best practices. Tremendous knowledge of peripherals
+and maintenance of computers.
 
 # Technologies used
 
@@ -41,7 +38,9 @@ computers and manual labor. Organized and diligent, with interpersonal communica
 </div>
 <br><br><br>
 
-<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sp-ace5&layout=donut)](https://github.com/anuraghazra/github-readme-stats)</div>
+<div align="center">
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sp-ace5&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <p>Connect with me on
 <br>	
