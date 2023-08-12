@@ -41,7 +41,7 @@ computers and manual labor. Organized and diligent, with interpersonal communica
 </div>
 <br><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sp-ace5&layout=compact&theme=gotham)]
+<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sp-ace5&layout=compact&theme=gotham)</div>
 
 <p>Connect with me on
 <br>	
